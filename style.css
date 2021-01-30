@@ -1,0 +1,48 @@
+body {
+  font-family: monospace;
+  text-align: center;
+  margin: 0;
+}
+.header {
+  background-color: gray;
+  color: white;
+  padding: 5px;
+  letter-spacing: 0.1em;
+}
+.content {
+  padding: 10px;
+}
+.content img {
+  width: 300px;
+}
+.content p {
+  font-weight: bold;
+  font-size: 20px;
+  color: gray
+}
+.footer {
+  background-color: gray;
+  color: white;
+  text-align: left;
+  padding: 5px;
+}
+.details {
+  padding-left: 30px;
+  vertical-align: top;
+}
+.details a:hover {
+  color: green;
+}
+.details a {
+  color: white;
+  font-size: 15px;
+  display: inline-block;
+  margin-top: 3px;
+  text-decoration: none;
+}
+.details h1 {
+  letter-spacing: 0.1em;
+}
+.details p {
+  font-size: 15px;
+}
